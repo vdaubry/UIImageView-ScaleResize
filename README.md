@@ -10,8 +10,8 @@ This category will scale and fit an image and align it to the bottom.
 It also allows to download from the Network using either AFNetworking (for performance) or SDWebimage (for reliable disk caching)
 
 
-To download with AFNetworking using NSURLCache use : setImageWithURL:placeholderImage:imgSize: 
-To download with SDWebImage using their custom disk cache use : setOfflineImageWithURL:placeholderImage:imgSize: 
+* To download with AFNetworking using NSURLCache use : ```setImageWithURL:placeholderImage:imgSize:```
+* To download with SDWebImage using their custom disk cache use : ```setOfflineImageWithURL:placeholderImage:imgSize:```
 
 
 ## License 
